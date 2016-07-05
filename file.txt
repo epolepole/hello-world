@@ -1,12 +1,3 @@
-<<<<<<< HEAD
 This is another shitAA
 a
-b
-b
-=======
-This is a simple testing file for looking at changes
-a
-b
-c
-
->>>>>>> add_new_fileC
+b 
