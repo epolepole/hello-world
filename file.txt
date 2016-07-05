@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 This is another shit
 a
 b
 b
+=======
+This is a simple testing file for looking at changes
+a
+b
+c
+
+>>>>>>> add_new_file
